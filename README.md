@@ -15,25 +15,6 @@ The stack I use for the test task:
 **p.s.>**
 _Thanks for the interesting experience, I was interested during after the main work writing an automatic test for an angular application using WDIO, it really looked like a challenge, so I expanded the test and played with the test a little more than indicated in the main task. Just FUN_mode :D_
 
-_And I saw bugs in the main task, the error block was often not displayed and the payment process was interrupted without any response for the client about that_
-
-![image](https://user-images.githubusercontent.com/53184739/161393276-a1a7d535-b2d7-4135-b658-a2b3a62936dd.png)
-
-Request URL: https://aggregator-rooms.ryanair.com/ha/v2/propertyBookingsPsd2
-Status Code: 400 
-
-email: 'dsa@dsa.dsa'
-```
-code: "BOOKING_EMAIL_INVALID"
-details: null
-field: "contact.email"
-index: null
-message: "Email must be valid"
-resource: "PropertyBookingRequestDtoV2"
-message: "Validation error"
-type: "VALIDATION_ERROR"
-```
-
 **p.s.2>**
 _For any questions:
 email: matthewsemenuyk@gmail.com
